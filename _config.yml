@@ -29,7 +29,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://dsoloh.me", title: Home}
-  - {file: "index.html"}
+  # - {file: "index.html"}
   # - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
