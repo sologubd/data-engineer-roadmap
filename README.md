@@ -1,8 +1,3 @@
-# 📘 Data engineering learning path by [Dmytro Solohub](https://dsoloh.me)
-
-## The guide is available [on Github Pages](https://dsoloh.me/data-engineer-roadmap/)
-
-
 ## 🔰 Beginner Level
 
 ### ✅ Skills to Learn
