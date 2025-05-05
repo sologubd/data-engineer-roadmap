@@ -1,5 +1,3 @@
-# Start Here
-
 ## 🔰 Beginner Level
 
 ### ✅ Skills to Learn
