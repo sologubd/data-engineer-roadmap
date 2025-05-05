@@ -10,11 +10,11 @@
 # remote_theme: just-the-docs/just-the-docs
 remote_theme: niklasbuschmann/contrast@v2.11
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
 
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
+title: "Data engineering learning path"
+author: "Dmytro Solohub"
+description: "Data engineering learning path."
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
@@ -24,8 +24,6 @@ date_format: "%B %d, %Y"
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-
-mathjax: true
 
 # Menu
 
@@ -37,10 +35,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
  - jekyll-feed
